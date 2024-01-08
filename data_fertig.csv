@@ -1,0 +1,170 @@
+,Cause of death or injury,Measure,Value_2017,2005-2010 DA%Change
+0,Tuberculosis,Percent of total deaths,0.0211573756141351,-0.0325487755559998
+1,HIV/AIDS,Percent of total deaths,0.0170611251089369,-0.0456628972256115
+2,Diarrheal diseases,Percent of total deaths,0.0280533101090737,-0.0193584742704781
+3,Other intestinal infectious diseases,Percent of total deaths,2.58723479591e-05,-0.0663090702758617
+4,Lower respiratory infections,Percent of total deaths,0.0457336479660751,-0.0211496438852426
+5,Upper respiratory infections,Percent of total deaths,0.0001628671493701,-0.0724115430345683
+6,Otitis media,Percent of total deaths,1.69440385863e-05,-0.0566845229686553
+7,Meningitis,Percent of total deaths,0.005148121667779,-0.0373921923661004
+8,Encephalitis,Percent of total deaths,0.0016510598694873,-0.0229988286102129
+9,Diphtheria,Percent of total deaths,6.47776890652e-05,-0.1350428734453274
+10,Whooping cough,Percent of total deaths,0.0016408007069808,-0.0447329834586024
+11,Tetanus,Percent of total deaths,0.0006816135000307,-0.1121259593686446
+12,Measles,Percent of total deaths,0.0017034712666564,-0.1350579253385449
+13,Varicella and herpes zoster,Percent of total deaths,0.0002786693563271,-0.0311836222741761
+14,Malaria,Percent of total deaths,0.011078340274879,-0.045183258021185
+15,Chagas disease,Percent of total deaths,0.0001403720918739,-0.0147370546651001
+16,Leishmaniasis,Percent of total deaths,0.0001345632685432,-0.1066566175443224
+17,African trypanosomiasis,Percent of total deaths,2.43933373104e-05,-0.1812412129169514
+18,Schistosomiasis,Percent of total deaths,0.0001579495392248,-0.0306379651873642
+19,Cysticercosis,Percent of total deaths,1.33908238799e-05,-0.0363208942562328
+20,Cystic echinococcosis,Percent of total deaths,2.1386062453e-05,-0.051199380924484
+21,Lymphatic filariasis,Percent of total deaths,0.0,0.0
+22,Onchocerciasis,Percent of total deaths,0.0,0.0
+23,Trachoma,Percent of total deaths,0.0,0.0
+24,Dengue,Percent of total deaths,0.0007233386058357,0.0362668474950215
+25,Yellow fever,Percent of total deaths,8.55471470431e-05,-0.0387479644253421
+26,Rabies,Percent of total deaths,0.0002083847259727,-0.0819993704346103
+27,Intestinal nematode infections,Percent of total deaths,5.73008269868e-05,-0.0685607376129447
+28,Food-borne trematodiases,Percent of total deaths,0.0,0.0
+29,Other neglected tropical diseases,Percent of total deaths,0.0002245173644245,-0.0068570054646216
+30,Maternal disorders,Percent of total deaths,0.0034610645158844,-0.0318097670937832
+31,Neonatal disorders,Percent of total deaths,0.0318836686735364,-0.0335789811200444
+32,Protein-energy malnutrition,Percent of total deaths,0.0041427851160826,-0.0345190613001418
+33,Iodine deficiency,Percent of total deaths,0.0,0.0
+34,Vitamin A deficiency,Percent of total deaths,0.0,0.0
+35,Dietary iron deficiency,Percent of total deaths,0.0,0.0
+36,Other nutritional deficiencies,Percent of total deaths,0.0006832782337561,-0.0132739520451164
+37,Sexually transmitted infections excluding HIV,Percent of total deaths,0.0021285622744547,-0.0303724870754477
+38,Acute hepatitis,Percent of total deaths,0.0022591798525185,-0.0266269497604728
+39,Leprosy,Percent of total deaths,0.0,0.0
+40,Other unspecified infectious diseases,Percent of total deaths,0.0014169176647729,-0.0121198962186042
+41,Esophageal cancer,Percent of total deaths,0.0077924723494445,-0.0167135266247122
+42,Stomach cancer,Percent of total deaths,0.015461213609688,-0.0144272924683661
+43,Liver cancer,Percent of total deaths,0.0146468169971159,-0.0002990918622154
+44,Larynx cancer,Percent of total deaths,0.0022605990637818,0.0017714764839048
+45,"Tracheal, bronchus, and lung cancer",Percent of total deaths,0.033658851543742,0.0094959506515479
+46,Breast cancer,Percent of total deaths,0.0109324068791053,0.0064601039403448
+47,Cervical cancer,Percent of total deaths,0.0046414284810586,-0.0037467915161701
+48,Uterine cancer,Percent of total deaths,0.0015236005308594,0.0038400803293594
+49,Prostate cancer,Percent of total deaths,0.0074342635228325,0.0114182267703886
+50,Colon and rectum cancer,Percent of total deaths,0.0160163636956137,0.0093316367934121
+51,Lip and oral cavity cancer,Percent of total deaths,0.0034622018774819,0.0174307350194793
+52,Nasopharynx cancer,Percent of total deaths,0.0012431580771098,0.003331598304275
+53,Other pharynx cancer,Percent of total deaths,0.0020986732114468,0.0225172833890666
+54,Gallbladder and biliary tract cancer,Percent of total deaths,0.0031097191942689,0.0088861733841288
+55,Pancreatic cancer,Percent of total deaths,0.0078841832924304,0.0218499748722376
+56,Malignant skin melanoma,Percent of total deaths,0.0011022547576849,0.0092972487374766
+57,Non-melanoma skin cancer,Percent of total deaths,0.0011635858923242,0.0218328162786414
+58,Ovarian cancer,Percent of total deaths,0.0031455902611459,0.0077590611051949
+59,Testicular cancer,Percent of total deaths,0.0001369499993452,-0.0033453960487713
+60,Kidney cancer,Percent of total deaths,0.0024761162489309,0.0134920495788883
+61,Bladder cancer,Percent of total deaths,0.0035131997475803,0.0076286794767816
+62,Brain and nervous system cancer,Percent of total deaths,0.0044175165107495,0.0077316804940062
+63,Thyroid cancer,Percent of total deaths,0.0007370554828541,0.0160300064462895
+64,Mesothelioma,Percent of total deaths,0.0005346084430456,0.0169157387259865
+65,Hodgkin lymphoma,Percent of total deaths,0.0005819737511459,-0.0155094341424611
+66,Non-Hodgkin lymphoma,Percent of total deaths,0.0044442501437125,0.0119601648577434
+67,Multiple myeloma,Percent of total deaths,0.0019146217258646,0.0125264072565639
+68,Leukemia,Percent of total deaths,0.0062129296403176,-0.0018041898524409
+69,Other malignant neoplasms,Percent of total deaths,0.0064267064746691,0.0189690381369141
+70,Other neoplasms,Percent of total deaths,0.0018396778897259,0.0183903250536992
+71,Rheumatic heart disease,Percent of total deaths,0.0051034897906684,-0.0174829476322989
+72,Ischemic heart disease,Percent of total deaths,0.159626658585997,0.003884185158542
+73,Stroke,Percent of total deaths,0.1102370831646027,-0.0069864855655872
+74,Hypertensive heart disease,Percent of total deaths,0.0165460503875236,0.0242050673353062
+75,Cardiomyopathy and myocarditis,Percent of total deaths,0.0065874314327402,-0.0102747128987381
+76,Atrial fibrillation and flutter,Percent of total deaths,0.0051343750058958,0.025084055862065
+77,Aortic aneurysm,Percent of total deaths,0.0029895066136537,-0.0001149739121301
+78,Peripheral artery disease,Percent of total deaths,0.0012542509990393,0.0329399818101206
+79,Endocarditis,Percent of total deaths,0.0014905728862199,0.0131310894986743
+80,Non-rheumatic valvular heart disease,Percent of total deaths,0.0025893166350714,0.022130853816456
+81,Other cardiovascular and circulatory diseases,Percent of total deaths,0.0064464193835328,0.0034045749843206
+82,Chronic obstructive pulmonary disease,Percent of total deaths,0.0571591650863051,-0.0065446304618717
+83,Pneumoconiosis,Percent of total deaths,0.000385221317858,-0.0157865050744023
+84,Asthma,Percent of total deaths,0.0088490553775976,-0.0162356356046732
+85,Interstitial lung disease and pulmonary sarcoidosis,Percent of total deaths,0.0026390208215617,0.0323684542168693
+86,Other chronic respiratory diseases,Percent of total deaths,0.0009320795728658,0.00914188593461
+87,Cirrhosis and other chronic liver diseases,Percent of total deaths,0.0236454613152961,-0.0010887562985817
+88,Appendicitis,Percent of total deaths,0.0007854796349155,-0.0100376342941654
+89,Paralytic ileus and intestinal obstruction,Percent of total deaths,0.0042986315662046,0.0051534182285708
+90,"Inguinal, femoral, and abdominal hernia",Percent of total deaths,0.000789294657125,0.0046188886103032
+91,Inflammatory bowel disease,Percent of total deaths,0.0006904701638102,0.0032567400579825
+92,Vascular intestinal disorders,Percent of total deaths,0.0017168755227661,0.0071112505168184
+93,Gallbladder and biliary diseases,Percent of total deaths,0.001975795706469,0.0071182689130887
+94,Pancreatitis,Percent of total deaths,0.0018163798812019,0.0050303751409118
+95,Other digestive diseases,Percent of total deaths,0.0015600601346918,0.004604540870933
+96,Alzheimer's disease and other dementias,Percent of total deaths,0.0449479270088809,0.0247073309062079
+97,Parkinson's disease,Percent of total deaths,0.0060887697124242,0.0214298992609986
+98,Epilepsy,Percent of total deaths,0.0023278790374181,-0.0121798129435286
+99,Multiple sclerosis,Percent of total deaths,0.0003692029581728,0.0030184829920212
+100,Motor neuron disease,Percent of total deaths,0.0006089604981468,0.0171840431109009
+101,Other neurological disorders,Percent of total deaths,0.0009642704503928,0.0084225048398002
+102,Schizophrenia,Percent of total deaths,0.0,0.0
+103,Alcohol use disorders,Percent of total deaths,0.0033056131571215,-0.0309869099082793
+104,Drug use disorders,Percent of total deaths,0.0029781295066102,0.010682145695321
+105,Depressive disorders,Percent of total deaths,0.0,0.0
+106,Bipolar disorder,Percent of total deaths,0.0,0.0
+107,Anxiety disorders,Percent of total deaths,0.0,0.0
+108,Eating disorders,Percent of total deaths,5.8356283199e-06,0.0053549043746982
+109,Autism spectrum disorders,Percent of total deaths,0.0,0.0
+110,Attention-deficit/hyperactivity disorder,Percent of total deaths,0.0,0.0
+111,Conduct disorder,Percent of total deaths,0.0,0.0
+112,Idiopathic developmental intellectual disability,Percent of total deaths,0.0,0.0
+113,Other mental disorders,Percent of total deaths,0.0,0.0
+114,Diabetes mellitus,Percent of total deaths,0.0244854451403609,0.0090209303006913
+115,Acute glomerulonephritis,Percent of total deaths,0.0001998799430897,-0.0096424204088776
+116,Chronic kidney disease,Percent of total deaths,0.0219886687372709,0.0174147789677688
+117,Urinary diseases and male infertility,Percent of total deaths,0.0048474177331912,0.0169997242546956
+118,Gynecological diseases,Percent of total deaths,0.0001458309656909,0.0009031220223035
+119,Hemoglobinopathies and hemolytic anemias,Percent of total deaths,0.0018691202076874,-0.0099076316676545
+120,"Endocrine, metabolic, blood, and immune disorders",Percent of total deaths,0.0025834419443294,0.0140343369912046
+121,Rheumatoid arthritis,Percent of total deaths,0.0008450028128518,0.0067036445932506
+122,Osteoarthritis,Percent of total deaths,0.0,0.0
+123,Low back pain,Percent of total deaths,0.0,0.0
+124,Neck pain,Percent of total deaths,0.0,0.0
+125,Gout,Percent of total deaths,0.0,0.0
+126,Other musculoskeletal disorders,Percent of total deaths,0.0013226229657464,0.0129563258175608
+127,Congenital birth defects,Percent of total deaths,0.0104540629842378,-0.0255429252532611
+128,Dermatitis,Percent of total deaths,0.0,0.0
+129,Psoriasis,Percent of total deaths,0.0,0.0
+130,Scabies,Percent of total deaths,0.0,0.0
+131,Fungal skin diseases,Percent of total deaths,0.0,0.0
+132,Viral skin diseases,Percent of total deaths,0.0,0.0
+133,Acne vulgaris,Percent of total deaths,0.0,0.0
+134,Alopecia areata,Percent of total deaths,0.0,0.0
+135,Pruritus,Percent of total deaths,0.0,0.0
+136,Urticaria,Percent of total deaths,0.0,0.0
+137,Decubitus ulcer,Percent of total deaths,0.0003634746014863,0.0065733730647192
+138,Other skin and subcutaneous diseases,Percent of total deaths,7.04337976841e-05,0.0109221793578981
+139,Age-related and other hearing loss,Percent of total deaths,0.0,0.0
+140,Other sense organ diseases,Percent of total deaths,0.0,0.0
+141,Oral disorders,Percent of total deaths,0.0,0.0
+142,Sudden infant death syndrome,Percent of total deaths,0.0007142466127103,-0.0311873777170123
+143,Road injuries,Percent of total deaths,0.0222191428942067,-0.0103757946936111
+144,Other transport injuries,Percent of total deaths,0.0016433033422866,-0.0099124026815338
+145,Falls,Percent of total deaths,0.0124366155417836,0.0087667939833703
+146,Drowning,Percent of total deaths,0.0052767374578483,-0.035210560155278
+147,"Fire, heat, and hot substances",Percent of total deaths,0.0021562195658504,-0.0254560840746536
+148,Poisonings,Percent of total deaths,0.0012935765176541,-0.0224764610022997
+149,Exposure to mechanical forces,Percent of total deaths,0.0024397798151526,-0.0188456325755424
+150,Adverse effects of medical treatment,Percent of total deaths,0.0021730228781172,-0.0005455561863922
+151,Animal contact,Percent of total deaths,0.0014491317532093,-0.0152475833339978
+152,Foreign body,Percent of total deaths,0.0022183846851984,-0.0183069206181149
+153,Other unintentional injuries,Percent of total deaths,0.0016923863412223,-0.0159940586980799
+154,Self-harm,Percent of total deaths,0.0141891884963408,-0.0151676721447045
+155,Interpersonal violence,Percent of total deaths,0.0072454205604308,-0.0176683322604073
+156,Exposure to forces of nature,Percent of total deaths,0.0001716510313657,0.1971071563821087
+157,Environmental heat and cold exposure,Percent of total deaths,0.0009536132898151,0.0887922517887535
+158,Ebola,Percent of total deaths,1.43192410218886e-07,0.0
+159,Executions and police conflict,Percent of total deaths,0.0002852644560247,-0.0232413288591951
+160,Zika virus,Percent of total deaths,3.4678654745127524e-07,0.0
+161,Guinea worm disease,Percent of total deaths,0.0,0.0
+162,Conflict and terrorism,Percent of total deaths,0.0023187400248612,0.0325757458770547
+163,Typhoid and paratyphoid,Percent of total deaths,0.002429595590211,-0.0321463924891874
+164,Invasive Non-typhoidal Salmonella (iNTS),Percent of total deaths,0.0010557693501751,-0.0331555521658668
+165,Headache disorders,Percent of total deaths,0.0,0.0
+166,Bacterial skin diseases,Percent of total deaths,0.0013586167062844,0.0157828829953705
+167,Blindness and vision impairment,Percent of total deaths,0.0,0.0
+168,Upper digestive system diseases,Percent of total deaths,0.0052213828094569,-0.0210665961297803
